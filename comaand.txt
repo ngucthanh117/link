@@ -1,4 +1,4 @@
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.28/lolMiner_v1.28a_Lin64.tar.gz
 tar -xf lolMiner_v1.28a_Lin64.tar.gz
 cd 1.28a
-./lolMiner --algo ETCHASH --pool etc.2miners.com:1010 --user 0xa7ed7990a3d3b28a0215c059edd8c2b52034f211.Colab1
+./lolMiner --algo kawpow --pool rvn.2miners.com:6060 --user RTCkJLK7cSEE46VxzPK38R19TnKvLpQ2KH.Colab1
